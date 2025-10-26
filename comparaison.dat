@@ -1,0 +1,5 @@
+plot "Goodwin_Results_Euler_Explicit.txt" using 2:3 w lp title "Euler Explicit"
+replot "Goodwin_Results_RK2.txt" using 2:3 w lp title "Runge Kutta 2"
+replot "Goodwin_Results_RK3.txt" using 2:3 w lp title "Runge Kutta 3"
+replot "Goodwin_Results_RK4.txt" using 2:3 w lp title "Runge Kutta 4"
+replot "Goodwin_Results_AB3.txt" using 2:3 w lp title "Adam Bashforth 3"

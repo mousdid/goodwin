@@ -1,0 +1,7 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/yassir/Bureau/2A/PG201/pg201-students-m2-tp3b-mousdid001/TP3/code/EDO/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_9fc4f/fast && No such file or directory
+Generator: execution of make failed. Make command was: /usr/bin/gmake cmTC_9fc4f/fast && 
+
+
